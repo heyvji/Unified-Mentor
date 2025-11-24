@@ -1,0 +1,21 @@
+# COVID-19 Clinical Trials Data Science Project - Requirements
+
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization Libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Jupyter Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional Utilities
+warnings  # Built-in Python module for handling warnings
